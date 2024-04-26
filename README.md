@@ -17,6 +17,7 @@ To run the script, follow these steps:
 3. Run the script in PowerShell:
    ```powershell
    .\GPUStatsMonitor.ps1
+![Sample Screenshot](Sample_Screenshot.jpg)
 
 ## Requirements
 - PowerShell 5.0 or higher
